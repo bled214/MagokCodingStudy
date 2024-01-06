@@ -14,15 +14,8 @@ class Solution:
                     while stk and temperatures[stk[-1]] < temperatures[i]:
                         result[stk[-1]] = i - stk[-1]
                         stk.pop()
-                    stk.append(i)
-                else:
-                    stk.append(i)
+                stk.append(i)
 
         return result
-            
-
-
-
-
 
         
