@@ -1,7 +1,8 @@
 # python 비재귀 세그먼트 트리
+
 '''python
 
-N = 1e6
+N = int(input())
 t = [0 for i in range(2*N)]
 
 for i in range(N,2*N):
