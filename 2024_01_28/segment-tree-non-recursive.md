@@ -1,7 +1,6 @@
 # python 비재귀 세그먼트 트리
 
-'''python
-
+```python
 N = int(input())
 t = [0 for i in range(2*N)]
 
@@ -33,4 +32,4 @@ def query(l,r):
 		r>>=1
 
 	return res
-'''
+```
