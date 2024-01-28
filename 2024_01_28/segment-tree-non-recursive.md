@@ -1,5 +1,6 @@
 # python 비재귀 세그먼트 트리
 '''python
+
 N = 1e6
 t = [0 for i in range(2*N)]
 
