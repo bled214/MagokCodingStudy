@@ -35,6 +35,7 @@ def query(l,r):
 ```
 
 ## 설명
+![segment-tree](./segment-tree-img.png)
 ```
 t = [0 for i in range(2*N)]
 ```
