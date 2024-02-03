@@ -9,7 +9,7 @@
 * 올해의 목표 작성
   * algorithm  
       - 사내 코드잼 입상  
-      코드잼 기출문제 풀기 - https://codejam.lge.com/
+      코드잼 기출문제 풀고정리 - https://codejam.lge.com/
   * linux
       - "디버깅을 통해 배우는 리눅스 커널의 구조와 원리" 책 읽기 및 저자강의 수강    
       - iamroot 스터디 가입
