@@ -8,9 +8,8 @@
 # 이윤범
 * 올해의 목표 작성
   * algorithm  
-      1.사내 코드잼 입상
-      코드잼 기출문제 풀기
-      https://codejam.lge.com/
+      - 사내 코드잼 입상  
+      코드잼 기출문제 풀기 - https://codejam.lge.com/
   * linux
  
   * yocto
