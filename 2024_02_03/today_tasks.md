@@ -6,3 +6,11 @@
   깃허브 링크 :  https://github.com/hyunyulhenry/quant_py
 
 # 이윤범
+* 올해의 목표 작성
+  * algorithm
+ 
+  * linux
+ 
+  * yocto
+ 
+  
