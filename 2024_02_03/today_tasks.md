@@ -4,7 +4,11 @@
   2. 백준 단계별 풀이 중 기초문제 매주풀기 - https://www.acmicpc.net/step
   3. "파이썬을 이용한 퀀트 투자 포트폴리오 만들기" 책 읽고, 그대로 따라하기  
   깃허브 링크 :  https://github.com/hyunyulhenry/quant_py
-
+* 숙제
+  *  점프투파이썬 2장 자료형, 4장 입출력 읽기  
+  * 백준 1000번 풀기 : https://www.acmicpc.net/problem/1000  
+  참고링크 https://aiday.tistory.com/104  
+  1000번 문제 푼것 => 깃허브 커밋올리기  
 # 윤범
 * 올해의 목표 작성
   * algorithm  
