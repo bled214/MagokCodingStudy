@@ -8,3 +8,5 @@
    https://product.kyobobook.co.kr/detail/S000000858148  
   * 워런 버핏 바이블
     https://www.yes24.com/Product/Goods/56921395?pid=123487&cosemkid=go15114313532602560&gad_source=1&gclid=Cj0KCQiAz8GuBhCxARIsAOpzk8xz_hb4wfVrQVqgUcb-KML_11gPX_EeyyvpkMCcLUtUJF2Vjkcfd4IaAtg-EALw_wcB 
+  * 공모주 확인
+   * https://www.38.co.kr/html/fund/?o=r1  
