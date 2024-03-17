@@ -17,9 +17,9 @@ number2 = number2[::-1]
 tmp1 = ''
 tmp2 = ''
 for i in range(len(number1)-1, -1, -1):
-	tmp1 = number1[i]
+	tmp1 += number1[i]
 for i in range(len(number2)-1, -1, -1):
-	tmp2 = number2[i]
+	tmp2 += number2[i]
 number1 = tmp1
 number2 = tmp2
 
