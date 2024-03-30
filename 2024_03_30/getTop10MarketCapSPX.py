@@ -1,3 +1,5 @@
+## S&P500 시총 상위 10개 주식과 시총값 가져오기 ##  
+
 import pandas as pd
 import yfinance as yf 
 # https://github.com/ranaroussi/yfinance
